@@ -1,0 +1,3 @@
+hola voy a realizar un conflicto 
+nombre="josue"
+print(nombre)
